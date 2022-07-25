@@ -1,9 +1,10 @@
 * {
     background-color: black;
     color: white;
+    text-align: center  ;
 }
 
-#header{  /*This class is tied to the index.html file*/
+.head {  /*This class is tied to the index.html file*/
     text-align: center;
     font-weight: 400;
     color: white;
@@ -11,5 +12,9 @@
 
 #reci{
     list-style-type: none;
+    text-align: center;
+}
+
+.para {
     text-align: center;
 }
